@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\bin\Debug\FirstWeek.exe.config
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\bin\Debug\FirstWeek.exe
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\bin\Debug\FirstWeek.pdb
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\obj\Debug\FirstWeek.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\obj\Debug\FirstWeek.Dashboard.resources
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\obj\Debug\FirstWeek.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\obj\Debug\FirstWeek.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\obj\Debug\FirstWeek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\obj\Debug\FirstWeek.exe
+C:\Users\Administrator\Desktop\FirstWeek\FirstWeek\obj\Debug\FirstWeek.pdb
