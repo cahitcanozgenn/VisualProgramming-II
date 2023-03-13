@@ -23,13 +23,22 @@ namespace FirstWeek
         }
         void getAll()
         {
-            connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=student.accdb");
-            dataAdapter = new OleDbDataAdapter("SELECT * FROM student", connection);
-            dataSet = new DataSet();
-            connection.Open();
-            dataAdapter.Fill(dataSet, "student");
-            dataGridView1.DataSource = dataSet.Tables["student"];
-            connection.Close();
+            try
+            {
+                connection = new OleDbConnection("Provider=Microsoft.ACE.Oledb.12.0;Data Source=student.accdb");
+                dataAdapter = new OleDbDataAdapter("SELECT * FROM student", connection);
+                dataSet = new DataSet();
+                connection.Open();
+                dataAdapter.Fill(dataSet, "student");
+                dataGridView1.DataSource = dataSet.Tables["student"];
+                
+                connection.Close();
+            }
+            catch(Exception hata)
+            {
+                MessageBox.Show(hata.Message);
+            }
+          
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -50,6 +59,7 @@ namespace FirstWeek
             command.Connection = connection;
             command.CommandText = "insert into student (studentFirstName,studentLastName,studentNumber) values ('" + textBox1.Text + "','" + textBox2.Text + "','" + textBox3.Text+ "')";
             command.ExecuteNonQuery();
+            MessageBox.Show("Veri Ekleme İşlemi Başarılı.");
             connection.Close();
             getAll();
 
@@ -63,7 +73,18 @@ namespace FirstWeek
 
         private void button3_Click(object sender, EventArgs e)
         {// Delete Data
-
+            DialogResult dr;
+            dr= MessageBox.Show("Silmek istediğinizden emin misiniz?", "Uyarı!", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dr == DialogResult.Yes)
+            {
+                command = new OleDbCommand();
+                connection.Open();
+                command.Connection = connection;
+                command.CommandText = "delete from student where studentId=" + textBox3.Text + "";
+                command.ExecuteNonQuery();
+                connection.Close();
+                getAll();
+            }
         }
     }
 }
