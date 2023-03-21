@@ -4,3 +4,9 @@
 - C# formda access veri tabanına bağlanılarak veri çekilme işlemi yapıldı.
 --------------------------------------------------
 **13.03.2023**
+- C# formda access veri tabanına bağlanılarak veri ekleme işlemi yapıldı.
+--------------------------------------------------
+**20.03.2023**
+- C# formda access veri tabanına bağlanılarak veri güncelleme işlemi yapıldı. Ek olarak silme işlemi ekledim.
+--------------------------------------------------
+**27.03.2023**
