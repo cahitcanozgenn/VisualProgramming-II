@@ -10,3 +10,6 @@
 - C# formda access veri tabanına bağlanılarak veri güncelleme işlemi yapıldı. Ek olarak silme işlemi ekledim.
 --------------------------------------------------
 **27.03.2023**
+- DataGridView üzerindeki dataları butonlar ile textbox'a yazdırma örneği yapıldı.
+--------------------------------------------------
+**03.04.2023**

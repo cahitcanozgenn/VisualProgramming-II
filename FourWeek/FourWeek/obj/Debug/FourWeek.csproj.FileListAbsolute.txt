@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\bin\Debug\FourWeek.exe.config
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\bin\Debug\FourWeek.exe
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\bin\Debug\FourWeek.pdb
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\obj\Debug\FourWeek.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\obj\Debug\FourWeek.Form1.resources
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\obj\Debug\FourWeek.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\obj\Debug\FourWeek.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\obj\Debug\FourWeek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\obj\Debug\FourWeek.exe
+C:\Users\Administrator\Desktop\FourWeek\FourWeek\obj\Debug\FourWeek.pdb
