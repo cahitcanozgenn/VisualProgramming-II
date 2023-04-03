@@ -50,6 +50,10 @@ namespace ThreeWeek
             command.CommandText = "INSERT INTO sinif (okulNo,adi,soyadi,bolum) VALUES ('" + textBox1.Text + "','" + textBox2.Text + "','" + textBox3.Text + "','" + textBox4.Text + "')";
             command.ExecuteNonQuery();
             MessageBox.Show("Veri Ekleme İşlemi Başarılı");
+                for(int i=0;i<this.Controls.Count;i++)
+                {// Veri ekledikten sonra textboxları temizler
+                    if (Controls[i] is TextBox) Controls[i].Text = "";
+                }
             connection.Close();
             data();
             }
