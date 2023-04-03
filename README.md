@@ -13,3 +13,4 @@
 - DataGridView üzerindeki dataları butonlar ile textbox'a yazdırma örneği yapıldı.
 --------------------------------------------------
 **03.04.2023**
+- Veri arama projesi eklendi.

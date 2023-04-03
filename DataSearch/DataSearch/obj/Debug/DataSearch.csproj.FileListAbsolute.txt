@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\bin\Debug\DataSearch.exe.config
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\bin\Debug\DataSearch.exe
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\bin\Debug\DataSearch.pdb
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\obj\Debug\DataSearch.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\obj\Debug\DataSearch.Form1.resources
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\obj\Debug\DataSearch.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\obj\Debug\DataSearch.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\obj\Debug\DataSearch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\obj\Debug\DataSearch.exe
+C:\Users\Administrator\Desktop\DataSearch\DataSearch\obj\Debug\DataSearch.pdb
