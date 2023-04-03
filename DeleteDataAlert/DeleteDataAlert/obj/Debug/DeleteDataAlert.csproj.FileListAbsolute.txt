@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\bin\Debug\DeleteDataAlert.exe.config
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\bin\Debug\DeleteDataAlert.exe
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\bin\Debug\DeleteDataAlert.pdb
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\obj\Debug\DeleteDataAlert.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\obj\Debug\DeleteDataAlert.Form1.resources
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\obj\Debug\DeleteDataAlert.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\obj\Debug\DeleteDataAlert.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\obj\Debug\DeleteDataAlert.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\obj\Debug\DeleteDataAlert.exe
+C:\Users\Administrator\Desktop\DeleteDataAlert\DeleteDataAlert\obj\Debug\DeleteDataAlert.pdb

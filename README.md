@@ -14,3 +14,4 @@
 --------------------------------------------------
 **03.04.2023**
 - Veri arama projesi eklendi.
+- Veri silme işlemi yaparken evet/hayır ödevi verildi.(DeleteDataAlert)
