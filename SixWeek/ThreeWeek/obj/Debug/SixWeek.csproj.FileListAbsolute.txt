@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\bin\Debug\ThreeWeek.exe.config
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\bin\Debug\ThreeWeek.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\bin\Debug\ThreeWeek.pdb
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\obj\Debug\SixWeek.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\obj\Debug\ThreeWeek.Form1.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\obj\Debug\ThreeWeek.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\obj\Debug\SixWeek.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\obj\Debug\SixWeek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\obj\Debug\ThreeWeek.exe
+C:\Users\Administrator\Documents\GitHub\VisualProgramming-II\SixWeek\ThreeWeek\obj\Debug\ThreeWeek.pdb
