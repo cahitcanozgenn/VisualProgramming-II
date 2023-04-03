@@ -51,7 +51,6 @@ namespace FourWeek
             dataAdapter.Fill(dt);
             dataGridView1.DataSource = dt;
             toplamKayit = dataGridView1.Rows.Count;
-            MessageBox.Show("a"+toplamKayit);
             connection.Close();
         }
 
