@@ -115,7 +115,7 @@ namespace FourWeek
         private void button2_Click(object sender, EventArgs e)
         {
           
-                i += 1;
+                i= toplamKayit-2;
                 textBox1.Text = dataGridView1.Rows[i].Cells[0].Value.ToString();
                 textBox2.Text = dataGridView1.Rows[i].Cells[1].Value.ToString();
                 textBox3.Text = dataGridView1.Rows[i].Cells[2].Value.ToString();
