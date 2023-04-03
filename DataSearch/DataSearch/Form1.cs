@@ -41,5 +41,11 @@ namespace DataSearch
             sql = "SELECT *FROM sinif WHERE okulNo='" + textBox1.Text + "'";
             Listele(sql);
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            sql = "SELECT *FROM sinif WHERE okulNo='" + textBox1.Text + "'";
+            Listele(sql);
+        }
     }
 }
